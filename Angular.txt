@@ -1,0 +1,2 @@
+The Principles for Writing Awesome Angular Components
+https://blog.bitsrc.io/the-principles-for-writing-awesome-angular-components-10e45f9ae77e
